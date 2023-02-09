@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_8" data-name="Layer 8" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 457.72 218.86">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: .09em;
+      }
+
+      .cls-2 {
+        letter-spacing: .07em;
+      }
+
+      .cls-3 {
+        font-size: 73.4px;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #89c97d;
+      }
+
+      .cls-3, .cls-5 {
+        font-family: BeVietnamPro-SemiBold, 'Be Vietnam Pro';
+        font-weight: 600;
+      }
+
+      .cls-6 {
+        letter-spacing: .08em;
+      }
+
+      .cls-5 {
+        fill: #fff;
+        font-size: 73.4px;
+      }
+
+      .cls-7 {
+        letter-spacing: .08em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_3" data-name="Layer 3">
+    <g id="Layer_1" data-name="Layer 1">
+      <polygon class="cls-4" points="32.74 103.09 32.74 186.77 68.18 186.77 68.18 91.03 32.74 103.09"/>
+      <polygon class="cls-4" points="53.62 89.48 74.58 82.34 74.58 179.33 100.36 179.34 100.36 34.21 53.62 53.06 53.62 89.48"/>
+    </g>
+    <g id="Layer_2" data-name="Layer 2">
+      <text class="cls-5" transform="translate(120.46 96.26)"><tspan class="cls-6" x="0" y="0">H</tspan><tspan class="cls-1" x="59.09" y="0">Y</tspan><tspan class="cls-6" x="116.85" y="0">TEN</tspan></text>
+      <text class="cls-3" transform="translate(120.84 177.48)"><tspan class="cls-7" x="0" y="0">D</tspan><tspan class="cls-2" x="60.41" y="0">E</tspan><tspan class="cls-7" x="112.37" y="0">SIGN</tspan></text>
+    </g>
+  </g>
+</svg>
