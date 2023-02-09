@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.323224ff.css",
-    "main.js": "/static/js/main.e5a1dadb.js",
+    "main.css": "/static/css/main.015eb3b5.css",
+    "main.js": "/static/js/main.fb78227e.js",
     "static/js/787.626a797b.chunk.js": "/static/js/787.626a797b.chunk.js",
     "static/media/hyten-design-logo.svg": "/static/media/hyten-design-logo.40bde8c988e9e1014dd195eef2452daa.svg",
     "index.html": "/index.html",
-    "main.323224ff.css.map": "/static/css/main.323224ff.css.map",
-    "main.e5a1dadb.js.map": "/static/js/main.e5a1dadb.js.map",
+    "main.015eb3b5.css.map": "/static/css/main.015eb3b5.css.map",
+    "main.fb78227e.js.map": "/static/js/main.fb78227e.js.map",
     "787.626a797b.chunk.js.map": "/static/js/787.626a797b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.323224ff.css",
-    "static/js/main.e5a1dadb.js"
+    "static/css/main.015eb3b5.css",
+    "static/js/main.fb78227e.js"
   ]
 }
