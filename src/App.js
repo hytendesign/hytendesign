@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>Web Design and Development</p>
-        <button className="App-link" href="mailto:daniel@hytendesign.com">Get in Touch</button>
+        <a className="App-link" href="mailto:daniel@hytendesign.com">Get in Touch</a>
       </header>
       <footer>
         <div className="App-footer">

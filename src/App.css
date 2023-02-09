@@ -33,6 +33,7 @@
   margin: 0 auto;
   cursor: pointer;
   transition: 0.3s;
+  text-decoration: none;
 }
 .App-footer p {
   min-width: 230px;
@@ -48,11 +49,11 @@
   color: #62A87C;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+@media screen and (max-width: 800px) {
+  .App-footer {
+    flex-direction: column-reverse;
   }
-  to {
-    transform: rotate(360deg);
+  .App-header {
+    min-height: calc(100vh - 159px);
   }
 }
